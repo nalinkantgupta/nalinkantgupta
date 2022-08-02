@@ -4,7 +4,7 @@
 
 CNCF - Kuala Lumpur talk on Prometheus Monitoring & integration testing that should be part of your CI/CD.
 
-![This is an image](cncf-nalin.jpeg)
+![This is an image](cncf-nalin.png)
 
 ## Kubectl workshop
 
