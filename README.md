@@ -25,7 +25,7 @@ Reference:
   </p>
 
   <p align="center">
-    <a href="https://visitor-badge.glitch.me/">
+    <a href="https://www.credly.com/badges/18555461-8a21-4c3b-9314-b6a634eef107/email">
       <img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png">
     </a>
   </p>
